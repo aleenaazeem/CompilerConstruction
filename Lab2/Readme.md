@@ -17,3 +17,9 @@ This is compiler construction lab.
 C programming is real fun
 Have a nice day”
 We give two arguments in the command line. First one is file and the second one is the character that needs to be replaced. The file is read line by line. The lines are printed on the command prompt. We have a char variable called string which stores each line of the file inside and then that is printed on the stdout. When we are iterating over each line, we count the number of characters in each line and print that number at the end of each line. For counting number of characters, we use int variable called num_char. Lastly we iterate over each character again and if it matches with the character provided by the user than it is replaced by the immediate next character. For this method we used ASCII codes to print the next character. We add a 1 to our character. 
+
+OUTPUTS
+
+![image](https://user-images.githubusercontent.com/99934126/201191332-bbdddf82-2c92-492c-a5d0-d3c7e07fb0b7.png)
+
+![image](https://user-images.githubusercontent.com/99934126/201191376-4ea7ddc8-4301-445a-aed9-4832160711ed.png)
