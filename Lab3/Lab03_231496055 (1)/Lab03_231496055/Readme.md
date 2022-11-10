@@ -7,11 +7,15 @@ Input file in1
 
 Hello friends! 
 
+
 This is compiler construction lab.
+
 
 C programming is real fun. 
 
+
 Have a nice day
+
 
 File in2 without blank lines:
 
